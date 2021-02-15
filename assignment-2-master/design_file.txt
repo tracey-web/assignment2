@@ -1,0 +1,8 @@
+Relaxr Landing Page - CSS
+=========================
+
+benefits background color: #f0efef
+yellow: #f9e42e
+dark blue: #033048
+light grey: #606161
+almost black: #121212

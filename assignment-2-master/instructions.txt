@@ -1,0 +1,5 @@
+Build the Relaxr Landing page to look like the relaxr_landing.jpg file.
+
+The CSS colors used are in the design_file.txt.
+
+Take your best guess on fonts and font-sizes, don't need to be exact.
